@@ -76,7 +76,9 @@ article {
     color: white;
     font-size: 24px;
     padding: 10px 75px 10px 75px;
-    justify-content:center ;
+    margin: 0 auto;
+    display: block;
+    text-align:center;
 }
 
 footer {
