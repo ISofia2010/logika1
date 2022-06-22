@@ -6,7 +6,7 @@ body {
 body p{
     text-align: center;
 }
-
+img{justify-content:center;}
 
 header {
     justify-content: space-between;
